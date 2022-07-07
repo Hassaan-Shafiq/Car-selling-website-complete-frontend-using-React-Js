@@ -1,3 +1,3 @@
 # Car-selling-website-complete-frontend-using-React-Js
-Car selling website designed in React js using Bootstrap, MUI and other librariers. The wesbite contains four pages named as New Cars page, Used Cars page, Auto Parts page and bikes page. 
+Car selling website designed in React js using Bootstrap, MUI and other librariers. The wesbite contains four pages named as New Cars page, Used Cars page, Auto Parts page and bikes page at user site and Admin site contains a create product page (To enter product data into Mongo Database), Read Product page (So the admin can view products from database that is available in stock),Update Product page (To update any product data in mongo db) ,Delete Product Page (To delete items from database).  
 Rar file is uploaded which contains all the files.
